@@ -210,11 +210,3 @@ Contributions are welcome! Feel free to:
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
-
-<div align="center">
-
-**⭐ If you found this project useful, please give it a star!**
-
-Made with ❤️ for financial security
-
-</div>
