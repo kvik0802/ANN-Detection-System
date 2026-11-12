@@ -6,14 +6,16 @@
 
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org)
-[![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ann-detection-system.streamlit.app/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 *An AI-powered system that detects suspicious financial transactions using deep learning, replacing traditional rule-based AML systems with intelligent pattern recognition.*
 
+### 🚀 **Live Demo:** [ann-detection-system.streamlit.app](https://ann-detection-system.streamlit.app/)
+
 ---
 
-[Features](#-features) · [Demo](#-demo) · [Installation](#-installation) · [Usage](#-usage) · [Model Architecture](#-model-architecture) · [Dataset](#-dataset)
+[Live App](https://ann-detection-system.streamlit.app/) · [Features](#-features) · [Demo](#-demo) · [Installation](#-installation) · [Usage](#-usage) · [Model Architecture](#-model-architecture) · [Dataset](#-dataset)
 
 </div>
 
@@ -69,8 +71,8 @@ The Streamlit web application provides an intuitive interface to check transacti
 
 ```bash
 # Clone the repository
-git clone https://github.com/kvik0802/AML-Detection-System.git
-cd AML-Detection-System
+git clone https://github.com/kvik0802/ANN-Detection-System.git
+cd ANN-Detection-System
 
 # Install dependencies
 pip install streamlit pandas numpy tensorflow joblib
